@@ -1,27 +1,27 @@
 
 ### **Contents**
 
--Introduction
+-**Introduction**
 
--Project Overview
+-**Project Overview**
 
--Project Structure
+-**Project Structure**
 
--Artifacts Description
+-**Artifacts Description**
 
--Mindmap
+-**Mindmap**
 
--Test Scenarios
+-**Test Scenarios**
 
--Test Cases
+-**Test Cases**
 
--Test Summary Report
+-**Test Summary Report**
 
--Bug Report
+-**Bug Report**
 
--Test Metrics
+-**Test Metrics**
 
--Summary
+-**Summary**
 
 
 ### **Manual Testing Project**
@@ -33,16 +33,22 @@ This project focuses on verifying and validating the different modules and featu
 
 ### **Project Structure**
 The project follows a structured approach to testing and includes various artifacts, which are categorized as follows:
--**Mind Map:** A visual representation of the testing scope and strategy.
--**Test Scenarios:** High-level test conditions that define what needs to be tested.
--**Test Cases:** Detailed test cases outlining specific test steps, inputs, expected outcomes, and actual results.
--**Test Summary Report:** A document summarizing the testing activities, coverage, and (pass/fail statistics) outcomes.
--**Bug Report:** Documentation of identified defects, including their severity, status, and resolution.
--**Test Metrics:** Quantitative data representing test execution progress, defect density, pass/fail rates, and other relevant insights.
+-**Mind Map**: A visual representation of the testing scope and strategy.
+
+-**Test Scenarios**: High-level test conditions that define what needs to be tested.
+
+-**Test Cases**: Detailed test cases outlining specific test steps, inputs, expected outcomes, and actual results.
+
+-**Test Summary Report**: A document summarizing the testing activities, coverage, and (pass/fail statistics) outcomes.
+
+-**Bug Report**: Documentation of identified defects, including their severity, status, and resolution.
+
+-**Test Metrics**: Quantitative data representing test execution progress, defect density, pass/fail rates, and other relevant insights.
+
 
 
 ### **Technology Used**
--**Excel:** For managing test cases, scenarios, and reports.
+-**Excel**: For managing test cases, scenarios, and reports.
 
 Getting Started
 To view the test documentation and results:
@@ -64,11 +70,16 @@ Positive and negative test cases for registration and login flows.
 ### 4. Test Summary Report
 Summarizes the test execution results, including:
 
--**Total Test Cases: 73
--**Passed: 61
--**Failed: 8
--**Not Executed: 4
--**Out of Scope: 0
+-**Total Test Cases**: 73
+
+-**Passed**: 61
+
+-**Failed**: 8
+
+-**Not Executed**: 4
+
+-**Out of Scope**: 0
+
 
 A pie chart visualization is included to illustrate the pass/fail ratio.
 
@@ -97,5 +108,5 @@ Open the Excel files to review each testing artifact.
 ### **Summary**
 This manual testing project for Startech.bd ensures the reliability of the account registration and login features, capturing potential issues and validating expected functionality. Each document included here contributes to a comprehensive testing approach for improved product quality.
 
-### Author
+### **Author**
 **Jeba Rezwana Saima**

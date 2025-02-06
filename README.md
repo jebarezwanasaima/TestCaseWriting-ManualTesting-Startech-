@@ -2,17 +2,29 @@
 
 
 ## **Contents**
-- [Prerequisites](#Prerequisites) 
+
+- [Prerequisites](#Prerequisites)
+   
 - [Introduction](#Introduction)
+  
 -[Project Overview](#Project Overview)
+
 -[Project Structure](#Project Structure)
+
 -[Artifacts Description](#Artifacts Description)
+
 -[Mindmap](#Mindmap)
+
 -[Test Scenarios](#Test Scenarios)
+
 -[Test Cases](#Test Cases)
+
 -[Test Summary Report](#Test Summary Report)
+
 -[Bug Report](#Bug Report)
+
 -[Test Metrics](#Test Metrics)
+
 -[Summary](#Summary)
 
 

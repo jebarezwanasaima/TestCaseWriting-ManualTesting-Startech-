@@ -1,4 +1,4 @@
-## ### Test cases for Startech Web Application
+### **Test cases for Startech Web Application**
 
 
 ## **Contents**
@@ -7,23 +7,23 @@
    
 - [Introduction](#Introduction)
   
--[Project Overview](#Project Overview)
+-[Project Overview](#Project-Overview)
 
--[Project Structure](#Project Structure)
+-[Project Structure](#Project-Structure)
 
--[Artifacts Description](#Artifacts Description)
+-[Artifacts Description](#Artifacts-Description)
 
 -[Mindmap](#Mindmap)
 
--[Test Scenarios](#Test Scenarios)
+-[Test Scenarios](#Test-Scenarios)
 
--[Test Cases](#Test Cases)
+-[Test Cases](#Test-Cases)
 
--[Test Summary Report](#Test Summary Report)
+-[Test Summary Report](#Test-Summary-Report)
 
--[Bug Report](#Bug Report)
+-[Bug Report](#Bug-Report)
 
--[Test Metrics](#Test Metrics)
+-[Test Metrics](#Test-Metrics)
 
 -[Summary](#Summary)
 

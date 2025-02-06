@@ -1,30 +1,32 @@
-
-### **Contents**
-
--**Introduction**
-
--**Project Overview**
-
--**Project Structure**
-
-## -**Artifacts Description**
-
--**Mindmap**
-
--**Test Scenarios**
-
--**Test Cases**
-
--**Test Summary Report**
-
--**Bug Report**
-
--**Test Metrics**
-
--**Summary**
+## ### Test cases for Startech Web Application
 
 
-### **Manual Testing Project**
+## **Contents**
+- [Prerequisites](#Prerequisites) 
+- [Introduction](#Introduction)
+-[Project Overview](#Project Overview)
+-[Project Structure](#Project Structure)
+-[Artifacts Description](#Artifacts Description)
+-[Mindmap](#Mindmap)
+-[Test Scenarios](#Test Scenarios)
+-[Test Cases](#Test Cases)
+-[Test Summary Report](#Test Summary Report)
+-[Bug Report](#Bug Report)
+-[Test Metrics](#Test Metrics)
+-[Summary](#Summary)
+
+
+## Prerequisites 
+
+- [Xmind](https://xmind.app): For Mindmap Design
+- [Excel](): For writing test cases.
+- [Google Sheets](): For writing test cases.
+- [Google Docs](): For writing different documents.
+- [Google Chrome](https://www.google.com/chrome): For test case execution and finding bugs. You can use any other web browser.
+- [Lightshot Chrome Extension]():For bug screenshots.
+- [OBS Studio](https://obsproject.com/): For capturing bug videos.
+
+### **Introduction**
 The Startech Test Case Project is designed to ensure the functionality, reliability, and performance of the Startech system through a well-structured testing process. This document serves as a guide to understanding the project's purpose, structure, and artifacts.
 
 ### **Project Overview**

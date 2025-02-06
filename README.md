@@ -24,7 +24,7 @@
 - [Google Sheets](): For writing test cases.
 - [Google Docs](): For writing different documents.
 - [Google Chrome](https://www.google.com/chrome): For test case execution and finding bugs. You can use any other web browser.
-- [Lightshot Chrome Extension]():For bug screenshots.
+- [Lightshot Chrome Extension](): For bug screenshots.
 - [OBS Studio](https://obsproject.com/): For capturing bug videos.
 
 ### **Introduction**
@@ -36,6 +36,8 @@ This project focuses on verifying and validating the different modules and featu
 
 ### **Project Structure**
 The project follows a structured approach to testing and includes various artifacts, which are categorized as follows:
+
+
 -**Mind Map**: A visual representation of the testing scope and strategy.
 
 -**Test Scenarios**: High-level test conditions that define what needs to be tested.

@@ -55,13 +55,14 @@ The project follows a structured approach to testing and includes various artifa
 ### **Technology Used**
 -**Excel**: For managing test cases, scenarios, and reports.
 
-Getting Started
-To view the test documentation and results:
 
 
 ### **Artifacts Description**
 ### 1. Mind Map
 Visual representation of the Account Module covering features like Registration, Login, and related functionalities. The mind map provides a clear overview of the different components and flows tested in this project.
+
+![image](https://github.com/user-attachments/assets/895c2835-47e7-440b-bafb-d93f499a63ca)
+
 
 ### 2. Test Scenarios
 A list of high-level scenarios designed to verify the functionality of the Account Module. Each scenario ensures comprehensive coverage of the registration and login functionalities, including edge cases and input validation.
@@ -85,16 +86,19 @@ Summarizes the test execution results, including:
 
 -**Out of Scope**: 0
 
+![image](https://github.com/user-attachments/assets/19d7e157-7fdf-413a-b786-2eb39a867212)
 
 A pie chart visualization is included to illustrate the pass/fail ratio.
+
+![image](https://github.com/user-attachments/assets/a82dc2e0-d0ea-4bb7-b915-1d46c79bd126)
+
+
 
 ### 5. Bug Report
 A log of bugs identified during testing, including:
 
 Bug ID, Severity, and Priority
-Steps to Reproduce
-Expected vs Actual Results
-Current Status
+![image](https://github.com/user-attachments/assets/2e81d2d1-5dbc-421e-8c2c-e02958072792)
 
 
 ### 6. Test Metrics
@@ -104,6 +108,11 @@ Test coverage
 Pass/fail rates
 Defect density
 Installation and Usage
+
+![image](https://github.com/user-attachments/assets/ffe42c6d-5076-4e6e-9bfd-2ed03187adad)
+
+
+
 To view or edit these test documents:
 
 Download the repository.

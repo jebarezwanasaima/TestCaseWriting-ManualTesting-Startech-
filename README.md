@@ -100,6 +100,7 @@ A pie chart visualization is included to illustrate the pass/fail ratio.
 A log of bugs identified during testing, including:
 
 Bug ID, Severity, and Priority
+
 ![image](https://github.com/user-attachments/assets/2e81d2d1-5dbc-421e-8c2c-e02958072792)
 
 
@@ -119,6 +120,7 @@ To view or edit these test documents:
 
 Download the repository.
 Open the Excel files to review each testing artifact.
+https://github.com/jebarezwanasaima/TestCaseWriting-ManualTesting-Startech-
 
 
 ### **Summary**

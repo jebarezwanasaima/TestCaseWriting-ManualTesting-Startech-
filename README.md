@@ -90,7 +90,9 @@ Summarizes the test execution results, including:
 
 A pie chart visualization is included to illustrate the pass/fail ratio.
 
-![image](https://github.com/user-attachments/assets/a82dc2e0-d0ea-4bb7-b915-1d46c79bd126)
+![image](https://github.com/user-attachments/assets/a82dc2e0-d0ea-4bb7-b915-1d46c79bd126)   ![image](https://github.com/user-attachments/assets/25d95c2d-e1da-417e-af41-30600ed1e55a)
+
+
 
 
 
